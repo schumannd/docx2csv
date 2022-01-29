@@ -1,4 +1,5 @@
-click
-python-docx
-xlwt
-openpyxl
+click==8.0.3
+python-docx==0.8.11
+xlwt==1.3.0
+openpyxl==3.0.9
+
